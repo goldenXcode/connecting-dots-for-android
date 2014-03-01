@@ -10,19 +10,12 @@ import exceptions.NoSuchDirectionException;
  */
 public class Line {
 
-	private int row;
-	private int col;
-	private Directions direction;
-
-	public Line() {
-		this.row = -1;
-		this.col = -1;
-		direction = null;
-	}
+	private int row = -1;
+	private int col = -1;
+	private Directions direction = null;
 
 	public Line(int row, int col, Directions direction)
 			throws NoSuchDirectionException {
-		this();
 		this.setRow(row);
 		this.setCol(col);
 		this.setDirection(direction);
@@ -75,7 +68,8 @@ public class Line {
 	 * 
 	 * @param direction
 	 *            - choose the direction for the line. It can be R,L,U,D.
-	 * @throws NoSuchDirectionException - when the direction is not one of the above.
+	 * @throws NoSuchDirectionException
+	 *             - when the direction is not one of the above.
 	 */
 	public void setDirection(Directions direction)
 			throws NoSuchDirectionException {
