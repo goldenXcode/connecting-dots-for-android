@@ -1,6 +1,0 @@
-Name: Pesho -> Score: 30
-Name: Vancheto -> Score: 17
-Name: Vancheto -> Score: 16
-Name: Cecka -> Score: 12
-Name: Sevdep -> Score: 4
-Name: Bozho -> Score: 3
