@@ -1,0 +1,7 @@
+Name: Ico -> Score: 39
+Name: Pesho -> Score: 30
+Name: Zelka -> Score: 24
+Name: Dragan -> Score: 19
+Name: Sevdep -> Score: 7
+Name: Ivan -> Score: 7
+Name: Sevdep -> Score: 1
